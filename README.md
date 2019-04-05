@@ -6,8 +6,8 @@
 #### Teste com e2e
 #### Documentação
 
->Faça o clone do projeto, entre na pasta e digite:
-    # npm install
+**Faça o clone do projeto, entre na pasta e digite:**
+> `# npm install`
 
 This project was generated with [Angular CLI](https://github.com/angular/angular-cli) version 7.3.8.
 
